@@ -1,0 +1,7 @@
+{
+  "name": "ionic-modal-service",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
